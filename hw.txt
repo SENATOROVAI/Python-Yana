@@ -39,3 +39,15 @@ https://library.samdu.uz/download/20642
 
 Data Science (зарегаться):
 1) https://www.kaggle.com/code/alexisbcook/titanic-tutorial
+
+
+04/08
+
+Зарегаться и начать делать степик
+
+1) Кагл
+https://www.kaggle.com/learn/intro-to-programming
+2) Степик
+https://stepik.org/course/58852/promo
+3) Карпов Курс
+https://karpov.courses/pythonzero
