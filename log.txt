@@ -26,3 +26,6 @@ python3 -m venv venv
 !pip3 freeze > requirements.txt- скачать зависимости из пайтона
 !pip install -r requirements.txt- загрузить зависимости 
 Зависимости можно обновлять постоянно
+17/08
+# 1)Библиотека- это модуль, а модуль это файл с расширением .py
+import random #import module Library
